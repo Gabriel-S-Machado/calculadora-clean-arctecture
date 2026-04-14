@@ -1,0 +1,1 @@
+"""Carrega uma Calculadora préviamente salva do arquivo de permanência"""

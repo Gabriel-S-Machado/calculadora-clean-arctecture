@@ -1,0 +1,1 @@
+"""Salva uma calculadora em um arquivo de permanencia"""
