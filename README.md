@@ -75,14 +75,25 @@ O Road Map quando iniciei o projeto não foi muito bem definido, fui fazendo de 
 mais dúvidas no momento, sendo guiado por este fluxo de aprendizagem. Porém, seria algo como:
 
 0.1 Camada Dominio pronto e funcional, com Entities, VOs, Policies e afins.
+
 0.5 Camada Aplication funcional e pronta para dar apoio as extenções futuras
+
 0.6 Principais cálculos prontos (adição, subtração, multiplicação e divisão)
+
 0.8 Versão básica funcional em CLI
+
 1.0 Versão funcional em CLI com permanencia básica
+
 1.4 Autotests prontos e interace gráfica (pyautogui ou TKInter) pronta
+
 1.6 Funções mais complexas prontas (Exponenciação, Fatoração...)
+
 1.7 Função de cálculo em lote 100% funcional
+
 1.8 Telegram BOT funcional
+
 1.9 Whatsap BOT funcional
+
 2.0 Discord BOT Funcional
+
 2.4 BD para salvar sesões de cálculo, hisstórico e preferências por usuário
